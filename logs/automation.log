@@ -1,0 +1,3 @@
+02:18:18.597 [main] INFO  testClass.TC001_AccountRegisterTest - **** Clicked Register ****
+02:18:18.607 [main] INFO  testClass.TC001_AccountRegisterTest - **** Providing customer details ****
+02:18:22.255 [main] INFO  testClass.TC001_AccountRegisterTest - **** TC001 Completed Successfully ****
